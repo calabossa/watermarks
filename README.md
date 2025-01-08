@@ -1,4 +1,4 @@
-This project is designed to practive autoencoders, U-nets and the openCV python library. It includes a dedicated network for the removal of watermarks from color images. 
+This project is designed to practive autoencoders and U-nets uisng Keras-Tensorflow, as well as the openCV library. It includes a dedicated network for the removal of watermarks from color images. 
 The network can be selected from a choice of: 
 1. Autoencoder (faster)
 2. U-net (slower, more parameters)
