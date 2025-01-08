@@ -1,4 +1,5 @@
 This folder contain examples of original, watermarked and predicted (the result of the model) images from the TEST set
 O - original
 W - watermarked
-F - fitted
+F_12k - fitted by a model on 12k image dataset
+F_22k - fitted by a model on 22k image dataset
