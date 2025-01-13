@@ -367,9 +367,9 @@ if runthenet:
     
 if False:
         
-    loaded_model = load_model(r"C:\Users\boazs\Dropbox\py\MyPy\PROJECTS\watermarks\best_model_so_far.keras", custom_objects={'ssim_loss': ssim_loss})
+    loaded_model = load_model(r"path\to\best_model_so_far.keras", custom_objects={'ssim_loss': ssim_loss})
     # OR:
-    loaded_model = load_model(r"C:\Users\boazs\Dropbox\py\MyPy\PROJECTS\watermarks\unet_best_checkpoint_Dec19.keras")
+    loaded_model = load_model(r"path\to\unet_best_checkpoint_Dec19.keras")
 
 
     # If needed re-evaluate the model
